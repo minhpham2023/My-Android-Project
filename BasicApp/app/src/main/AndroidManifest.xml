@@ -8,6 +8,7 @@
     <!--Change an Android App’s Name?-->
     <!--Go to the app > manifests > AndroidManifest.xml file and change the android:label field in your application node in AndroidManifest.xml.-->
     <!--Then Go to the app > res > values > strings.xml file to change the name of App-->
+    <!--a new comment to github-->
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"

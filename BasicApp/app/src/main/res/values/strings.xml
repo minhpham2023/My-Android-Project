@@ -1,0 +1,5 @@
+<resources>
+    <!--the string resource that holds the current app name which is passed in the Manifest.xml file’s application tag inside the label attribute.-->
+    <!--change this string resources value to My New App-->
+    <string name="app_name">My New App</string>
+</resources>
